@@ -22,27 +22,18 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Image Generation":
-        filters: ["Image Generation", "Image Synthesis",
-                  "Image-to-Image", "Image Editing",
-                  "Image Edit", "Diffusion Transformer",
-                  "Latent Diffusion", "Rectified Flow"]
-
-    "RAW and Linear-Domain Imaging":
-        filters: ["RAW Image", "RAW Images",
-                  "RAW Generation", "RAW Synthesis",
-                  "RAW Diffusion", "RAW-Diffusion",
-                  "RAW-to-RGB", "RGB-to-RAW",
-                  "Sensor RAW", "Bayer",
-                  "Camera Sensor", "Linear RGB",
-                  "Linear Domain", "Linear-Domain",
-                  "Image Signal Processing", "Neural ISP",
-                  "Inverse ISP", "Unprocessing"]
-
-    "Image Super-Resolution and Restoration":
-        filters: ["Super-Resolution", "Super Resolution",
-                  "Image Restoration", "Image Reconstruction",
-                  "Image Enhancement", "Image Denoising",
-                  "Image Deblurring", "Blind Super-Resolution",
-                  "Real-World Super-Resolution", "Generative Super-Resolution",
-                  "Diffusion Prior"]
+    "SLAM": 
+        filters: ["SLAM", "Visual Odometry"]
+    "SFM":
+        filters: ["SFM", "Structure from Motion"]
+    "Visual Localization":
+        filters: ["Visual Localization","Camera Localization",
+                  "Camera Re-localisation","Loop Closure Detection",
+                  "visual place recognition","image retrieval"]
+    "Keypoint Detection":
+        filters: ["Keypoint Detection", "Feature Descriptor"]
+    "Image Matching":
+        filters: ["Image Matching", "Keypoint Matching", 
+                  "Line Segment Detection", "Local Feature Matching"]
+    "NeRF":
+        filters: ["NeRF"]
