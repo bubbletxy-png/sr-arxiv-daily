@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.12
+## Updated on 2026.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9346,6 +9346,51 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## Image Generation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
+|**2026-10-09**|**InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators**|Xuanlang Dai et.al.|[2610.13944](http://arxiv.org/abs/2610.13944)|null|
+|**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|null|
+|**2026-10-09**|**Hide and Seek: HIDE Concepts to SEEK explanations for black box models**|Bhanu Tokas et.al.|[2610.13935](http://arxiv.org/abs/2610.13935)|null|
+|**2026-10-09**|**Chronos Policy: Learning Robot Policies on Physical Time**|Changhao Wang et.al.|[2610.13929](http://arxiv.org/abs/2610.13929)|null|
+|**2026-10-09**|**A Comprehensive JWST Slitless Spectroscopic Census of $\sim$12,000 Emission-Line Galaxies at Redshift $0\sim9$ in COSMOS**|Shuqi Fu et.al.|[2610.13920](http://arxiv.org/abs/2610.13920)|null|
+|**2026-10-09**|**Designing Protein Structures from Natural Language**|Joseph Lee et.al.|[2610.13917](http://arxiv.org/abs/2610.13917)|null|
+|**2026-10-09**|**Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning**|Junkai Liu et.al.|[2610.13915](http://arxiv.org/abs/2610.13915)|null|
+|**2026-10-09**|**When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors**|Shubh Garg et.al.|[2610.13910](http://arxiv.org/abs/2610.13910)|null|
+|**2026-10-09**|**Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion**|Yiming Yang et.al.|[2610.13872](http://arxiv.org/abs/2610.13872)|null|
+
+## RAW and Linear-Domain Imaging
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Boundary stabilization of multi-dimensional first-order quasilinear hyperbolic systems**|Haitian Yang et.al.|[2610.13577](http://arxiv.org/abs/2610.13577)|null|
+|**2026-10-09**|**Utility-Based Recovery Risk Measures: Redundancy and Approximation for Portfolio Optimization**|Justin Plückebaum et.al.|[2610.13454](http://arxiv.org/abs/2610.13454)|null|
+|**2026-10-09**|**Goal-Oriented Ordered Autoencoding for Successive Refinement in Progressive Communication**|Qi Liao et.al.|[2610.13426](http://arxiv.org/abs/2610.13426)|null|
+|**2026-10-09**|**Why Linear Models Can Still Work in a Complex and Changing World**|Fangzhou Lin et.al.|[2610.13404](http://arxiv.org/abs/2610.13404)|null|
+|**2026-10-09**|**Tri-Hybrid SWIPT with Reconfigurable Parasitic Antennas**|Thien Duc Hua et.al.|[2610.13402](http://arxiv.org/abs/2610.13402)|null|
+|**2026-10-09**|**Spectral theorem for compact self-adjoint linear relations with an application to elliptic boundary value problems**|Mathew Thomas et.al.|[2610.13385](http://arxiv.org/abs/2610.13385)|null|
+|**2026-10-09**|**Numerical Stability of Extended-Domain Spectral Collocation: Floating-Point Regularization and an Equilibrium Law for the Frame Constants**|Po-Yi Wu et.al.|[2610.13222](http://arxiv.org/abs/2610.13222)|null|
+|**2026-10-09**|**Fast Gradient-Based Approximation of Continuous Dynamic Time Warping**|Pierre Houedry et.al.|[2610.13129](http://arxiv.org/abs/2610.13129)|null|
+|**2026-10-09**|**Human2Dex: Dexterous Robot Learning from Wrist-Centric Human Demonstrations**|Jiachen Zhang et.al.|[2610.13119](http://arxiv.org/abs/2610.13119)|null|
+|**2026-10-09**|**Quantum-Circuit Residuals for Receptor Functional Potency Prediction: Predictive Gains and Quadratic Structure**|Chenyan Jia et.al.|[2610.13037](http://arxiv.org/abs/2610.13037)|null|
+
+## Image Super-Resolution and Restoration
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**Neurons++: A Unified Visual-Stream Framework for Image and Video Reconstruction from fMRI with Neural-to-Visual Interpretability**|Haonan Wang et.al.|[2610.13763](http://arxiv.org/abs/2610.13763)|null|
+|**2026-10-09**|**State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**|Yan Luo et.al.|[2610.13720](http://arxiv.org/abs/2610.13720)|null|
+|**2026-10-09**|**MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution**|Liuqian Wang et.al.|[2610.13547](http://arxiv.org/abs/2610.13547)|null|
+|**2026-10-09**|**The Silk Nebula: A Newly Discovered Giant [OIII] Emission Filament**|Yi-Fei Wu et.al.|[2610.13329](http://arxiv.org/abs/2610.13329)|null|
+|**2026-10-09**|**3DRAG: 3D-Native Object Drag Editing with Generative Models**|Kuixiang Shao et.al.|[2610.13216](http://arxiv.org/abs/2610.13216)|null|
+|**2026-10-09**|**High-Throughput Generative Video Super-Resolution on a Single Consumer GPU**|Georgios Panaretou et.al.|[2610.13179](http://arxiv.org/abs/2610.13179)|null|
+|**2026-10-09**|**UniDeblur: Unified Motion Deblurring via Fourier Convolution Learning**|Xintian Mao et.al.|[2610.12941](http://arxiv.org/abs/2610.12941)|null|
+|**2026-10-09**|**Rethinking the Roles of Diffusion and Decoding: Predictive-State Flows for Parallel Language Generation**|Jinjin He et.al.|[2610.12898](http://arxiv.org/abs/2610.12898)|null|
+|**2026-10-08**|**ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration**|Jialei He et.al.|[2610.12337](http://arxiv.org/abs/2610.12337)|null|
+|**2026-10-08**|**Deep preferential evolution guided by pairwise comparisons enables motion correction in photoacoustic tomography**|Karteekeya Sastry et.al.|[2610.12273](http://arxiv.org/abs/2610.12273)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
