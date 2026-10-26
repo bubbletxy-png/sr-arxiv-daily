@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.19
+## Updated on 2026.10.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9351,6 +9351,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
+|**2026-10-23**|**Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System**|Bryce T. Bolin et.al.|[2610.32972](http://arxiv.org/abs/2610.32972)|null|
+|**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
+|**2026-10-23**|**Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection**|Bernardo Perrone Ribeiro et.al.|[2610.32964](http://arxiv.org/abs/2610.32964)|null|
+|**2026-10-23**|**A probabilistic approach to separate mergers and jellyfish galaxies: Application of morphological non-parametric indexes to the DESI Legacy Survey**|V. M. Sampaio et.al.|[2610.32960](http://arxiv.org/abs/2610.32960)|null|
+|**2026-10-23**|**Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models**|Dianye Huang et.al.|[2610.32948](http://arxiv.org/abs/2610.32948)|null|
+|**2026-10-23**|**STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks**|Ankit Gupta et.al.|[2610.32932](http://arxiv.org/abs/2610.32932)|null|
+|**2026-10-23**|**ZENO: Nonlinear filtering with Zakai Equation Neural Operators**|Aaditya Prasad et.al.|[2610.32926](http://arxiv.org/abs/2610.32926)|null|
+|**2026-10-23**|**LoCA: Enabling Multi-Modality in Geospatial Location Encoders**|Panagiotis Koromilas et.al.|[2610.32894](http://arxiv.org/abs/2610.32894)|null|
+|**2026-10-23**|**VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering**|Guangyu Meng et.al.|[2610.32884](http://arxiv.org/abs/2610.32884)|null|
 |**2026-10-09**|**Splat2Act: From Captured Scenes to Personalized VLA Manipulation**|Xiaomeng Ye et.al.|[2610.13945](http://arxiv.org/abs/2610.13945)|null|
 |**2026-10-09**|**InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators**|Xuanlang Dai et.al.|[2610.13944](http://arxiv.org/abs/2610.13944)|null|
 |**2026-10-09**|**Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback**|Yucheng Yang et.al.|[2610.13941](http://arxiv.org/abs/2610.13941)|null|
@@ -9366,6 +9376,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**Information Requirements for Resolving Implementation Impossibilities**|Yuta Nakamura et.al.|[2610.32958](http://arxiv.org/abs/2610.32958)|null|
+|**2026-10-23**|**A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control**|Rahul Golder et.al.|[2610.32914](http://arxiv.org/abs/2610.32914)|null|
+|**2026-10-23**|**Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes**|Isaac Y. Miranda-Valdez et.al.|[2610.32895](http://arxiv.org/abs/2610.32895)|null|
+|**2026-10-23**|**Hardware-Friendly Estimation of LCU-Based Expectation Values via Quantum-to-Classical Workload Shifting**|Hari Hara Suthan Chittoor et.al.|[2610.32841](http://arxiv.org/abs/2610.32841)|null|
+|**2026-10-23**|**Augmentation Strategy for DINO in Glaucoma Classification**|Ashish Kumar Meena et.al.|[2610.32511](http://arxiv.org/abs/2610.32511)|null|
+|**2026-10-23**|**A linear dual-field finite element method for incompressible MHD, part I: cross-helicity and Alfvénic alignment in periodic domains**|Shusheng Li et.al.|[2610.32476](http://arxiv.org/abs/2610.32476)|null|
+|**2026-10-23**|**TGR-EvoDAG: A DAG-based Multi-Agent Code Evolution Framework for Generative Recommendation on Tencent**|Junlin He et.al.|[2610.32326](http://arxiv.org/abs/2610.32326)|null|
+|**2026-10-23**|**Geometry property of stochastic parabolic equations and Prékopa-Leindler inequality on bounded domains**|Guangying Lv et.al.|[2610.32288](http://arxiv.org/abs/2610.32288)|null|
+|**2026-10-23**|**Representation Learning via Composite Subspace Flow Matching**|José Afonso et.al.|[2610.32256](http://arxiv.org/abs/2610.32256)|null|
+|**2026-10-23**|**Learning Nonlinear Waveform Fusion Across Scales for Integrated Sensing and Communication**|Jiayu Liu et.al.|[2610.32099](http://arxiv.org/abs/2610.32099)|null|
 |**2026-10-09**|**Boundary stabilization of multi-dimensional first-order quasilinear hyperbolic systems**|Haitian Yang et.al.|[2610.13577](http://arxiv.org/abs/2610.13577)|null|
 |**2026-10-09**|**Utility-Based Recovery Risk Measures: Redundancy and Approximation for Portfolio Optimization**|Justin Plückebaum et.al.|[2610.13454](http://arxiv.org/abs/2610.13454)|null|
 |**2026-10-09**|**Goal-Oriented Ordered Autoencoding for Successive Refinement in Progressive Communication**|Qi Liao et.al.|[2610.13426](http://arxiv.org/abs/2610.13426)|null|
@@ -9381,6 +9401,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
+|**2026-10-23**|**Neural Disjunctive Normal Forms for Learning Exact Rank Filters**|Diego Marcondes et.al.|[2610.32203](http://arxiv.org/abs/2610.32203)|null|
+|**2026-10-23**|**Learning Nonlinear Waveform Fusion Across Scales for Integrated Sensing and Communication**|Jiayu Liu et.al.|[2610.32099](http://arxiv.org/abs/2610.32099)|null|
+|**2026-10-22**|**SyncVid: World-Equivariant Diffusion for Synchronized Video Generation**|Farhad G. Zanjani et.al.|[2610.31765](http://arxiv.org/abs/2610.31765)|null|
+|**2026-10-22**|**GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution**|Matteo Fusconi et.al.|[2610.31644](http://arxiv.org/abs/2610.31644)|null|
+|**2026-10-22**|**Squaring-the-Sphere: Distortion-Free and Seamless Panorama Generation via CubeAtlas**|Xuhui Zuo et.al.|[2610.31565](http://arxiv.org/abs/2610.31565)|null|
+|**2026-10-22**|**AI Enhanced Cerenkov Luminescence Microscopy**|Stefano Pizzardi et.al.|[2610.31240](http://arxiv.org/abs/2610.31240)|null|
+|**2026-10-22**|**GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching**|Ariel Lapid et.al.|[2610.31222](http://arxiv.org/abs/2610.31222)|null|
+|**2026-10-22**|**LieGROG: A Lie algebra approach for calibrating GRAPPA operators**|Tobias Wech et.al.|[2610.30927](http://arxiv.org/abs/2610.30927)|null|
+|**2026-10-22**|**Training-free Acceleration for Blind Compressed Image Restoration via Activation-Calibrated Singular Value Decomposition**|Suhang Yao et.al.|[2610.29959](http://arxiv.org/abs/2610.29959)|null|
 |**2026-10-09**|**Neurons++: A Unified Visual-Stream Framework for Image and Video Reconstruction from fMRI with Neural-to-Visual Interpretability**|Haonan Wang et.al.|[2610.13763](http://arxiv.org/abs/2610.13763)|null|
 |**2026-10-09**|**State-Isolated Vision Mamba via Update-Tendency Routing for Underwater Image Enhancement**|Yan Luo et.al.|[2610.13720](http://arxiv.org/abs/2610.13720)|null|
 |**2026-10-09**|**MOSAIC: Multi-Scale Object-Centric Slot Adaptation with Image-Guided Prototype Conditioning for Remote Sensing Image Super-Resolution**|Liuqian Wang et.al.|[2610.13547](http://arxiv.org/abs/2610.13547)|null|
