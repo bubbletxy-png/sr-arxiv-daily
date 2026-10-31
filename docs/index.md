@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9351,6 +9351,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
+|**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
+|**2026-10-29**|**Probing Spatial State Representations in Visual Foundation Models**|Baiqiao Yin et.al.|[2610.40636](http://arxiv.org/abs/2610.40636)|null|
+|**2026-10-29**|**PRISMS GHZ8: Evidence for a Young Burst and Potential Merger Activity at z=10.23**|Ruqiu Lin et.al.|[2610.40633](http://arxiv.org/abs/2610.40633)|null|
+|**2026-10-29**|**Difficulty Calibration Across Time for Membership Inference in Diffusion Models**|Michael Joseph et.al.|[2610.40616](http://arxiv.org/abs/2610.40616)|null|
+|**2026-10-29**|**L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory**|Jinhyeok Choi et.al.|[2610.40614](http://arxiv.org/abs/2610.40614)|null|
+|**2026-10-29**|**Almost Homogeneity Characterizes Almost Bi-Lipschitz Euclidean Embeddability**|Ryo Fukano et.al.|[2610.40601](http://arxiv.org/abs/2610.40601)|null|
+|**2026-10-29**|**HairDeck: Animation-Ready Stylized Hair Cards from a Single Image**|Yuze He et.al.|[2610.40599](http://arxiv.org/abs/2610.40599)|null|
+|**2026-10-29**|**The IRAC Distant Cluster Survey**|Karolina Garcia et.al.|[2610.40534](http://arxiv.org/abs/2610.40534)|null|
+|**2026-10-29**|**PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?**|Lidong Lu et.al.|[2610.40530](http://arxiv.org/abs/2610.40530)|null|
 |**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976](http://arxiv.org/abs/2610.32976)|null|
 |**2026-10-23**|**Comprehensive Visible and Near-infrared Keck and Gemini Monitoring and Characterization of Interstellar Comet 3I/ATLAS during its Encounter with the Solar System**|Bryce T. Bolin et.al.|[2610.32972](http://arxiv.org/abs/2610.32972)|null|
 |**2026-10-23**|**MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs**|Tarunya Prasad et.al.|[2610.32967](http://arxiv.org/abs/2610.32967)|null|
@@ -9376,6 +9386,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**Field-level inference under pressure: the information content of the thermal Sunyaev-Zel'dovich field**|Carmen Embil Villagra et.al.|[2610.40617](http://arxiv.org/abs/2610.40617)|null|
+|**2026-10-29**|**Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers**|Ibrahim Salifu et.al.|[2610.40544](http://arxiv.org/abs/2610.40544)|null|
+|**2026-10-29**|**Beyond $χ^2$ : Ensemble null tests for reliable scientific discovery**|Adrian E. Bayer et.al.|[2610.40167](http://arxiv.org/abs/2610.40167)|null|
+|**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](http://arxiv.org/abs/2610.40046)|null|
+|**2026-10-29**|**Ghosts in the nanomachine: dynamical slowing-down in the phase-space of nanomechanical strings**|Samer Houri et.al.|[2610.39968](http://arxiv.org/abs/2610.39968)|null|
+|**2026-10-29**|**Three-dimensional stress-gradient non-locality problem: Displacement field for an arbitrary and a conservative force**|Slađan Jelić et.al.|[2610.39888](http://arxiv.org/abs/2610.39888)|null|
+|**2026-10-29**|**Compressed Orientation Reachability Maps for Sub-Second Robotic Needle Entry Point Planning**|Prabhu Nithin Gollapudi et.al.|[2610.39879](http://arxiv.org/abs/2610.39879)|null|
+|**2026-10-29**|**Optimization of curved vortex generator geometry for enhanced thermal performance in water-to-air finned-tube heat exchanger**|Josip Batista et.al.|[2610.39780](http://arxiv.org/abs/2610.39780)|null|
+|**2026-10-29**|**Unified transform method for nonautonomous linear evolution equations: rigorous analysis and qualitative theory**|Andreas Chatziafratis et.al.|[2610.39698](http://arxiv.org/abs/2610.39698)|null|
+|**2026-10-29**|**The Diffuse Layer of Thin Cylinders: Beyond the Counterion Condensation Paradigm**|Olga I. Vinogradova et.al.|[2610.39661](http://arxiv.org/abs/2610.39661)|null|
 |**2026-10-23**|**Information Requirements for Resolving Implementation Impossibilities**|Yuta Nakamura et.al.|[2610.32958](http://arxiv.org/abs/2610.32958)|null|
 |**2026-10-23**|**A Tutorial on Physics Constrained Machine Learning for Hybrid Modeling, Optimization, and Control**|Rahul Golder et.al.|[2610.32914](http://arxiv.org/abs/2610.32914)|null|
 |**2026-10-23**|**Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes**|Isaac Y. Miranda-Valdez et.al.|[2610.32895](http://arxiv.org/abs/2610.32895)|null|
@@ -9401,6 +9421,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT**|Amartya Bhattacharya et.al.|[2610.40284](http://arxiv.org/abs/2610.40284)|null|
+|**2026-10-29**|**Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI**|Serwan Jassim et.al.|[2610.40280](http://arxiv.org/abs/2610.40280)|null|
+|**2026-10-29**|**EventSeeColor: Learning to Reconstruct Color from Monochrome Events**|Chuanzhi Xu et.al.|[2610.40166](http://arxiv.org/abs/2610.40166)|null|
+|**2026-10-29**|**Coupled Guidance for Flow Matching**|Mateo Clémente et.al.|[2610.40109](http://arxiv.org/abs/2610.40109)|null|
+|**2026-10-29**|**EPC-RawDC: Equivariant Physics Constrained 3D Diffusion with Raw Data Consistency for CBCT to CT Image Synthesis**|Alzahra Altalib et.al.|[2610.40046](http://arxiv.org/abs/2610.40046)|null|
+|**2026-10-29**|**Blind Video Denoising for Vocal Tract rtMRI using a Self-Supervised Ensemble**|Julian Andres Hernandez-Potes et.al.|[2610.39972](http://arxiv.org/abs/2610.39972)|null|
+|**2026-10-29**|**Feeding or Fleeing: The Impact of Enhanced Early Black Hole Growth on Circumgalactic Clumps at $z > 6$**|Floor van Donkelaar et.al.|[2610.39692](http://arxiv.org/abs/2610.39692)|null|
+|**2026-10-29**|**UniTele: Learning Device-Conditioned Degradations for Unified Smartphone Telephoto Super-Resolution**|Yuchen Zhang et.al.|[2610.39617](http://arxiv.org/abs/2610.39617)|null|
+|**2026-10-29**|**Operator-Aware Posterior Sampling for Multivariate Weather Downscaling**|Carlo Saccardi et.al.|[2610.39592](http://arxiv.org/abs/2610.39592)|null|
+|**2026-10-29**|**FFAI: Flow Matching with Feedback Training and Adaptive Initialization for CT Reconstruction**|Jigang Duan et.al.|[2610.39517](http://arxiv.org/abs/2610.39517)|null|
 |**2026-10-23**|**SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning**|Yuhan Liu et.al.|[2610.32978](http://arxiv.org/abs/2610.32978)|null|
 |**2026-10-23**|**Neural Disjunctive Normal Forms for Learning Exact Rank Filters**|Diego Marcondes et.al.|[2610.32203](http://arxiv.org/abs/2610.32203)|null|
 |**2026-10-23**|**Learning Nonlinear Waveform Fusion Across Scales for Integrated Sensing and Communication**|Jiayu Liu et.al.|[2610.32099](http://arxiv.org/abs/2610.32099)|null|
