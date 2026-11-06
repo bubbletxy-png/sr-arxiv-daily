@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.02
+## Updated on 2026.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9351,6 +9351,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
+|**2026-11-05**|**Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception**|Hongsen Cao et.al.|[2611.08441](http://arxiv.org/abs/2611.08441)|null|
+|**2026-11-05**|**FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning**|Ali Mohammadi Ruzbahani et.al.|[2611.08383](http://arxiv.org/abs/2611.08383)|null|
+|**2026-11-05**|**NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma**|Pengkai Wang et.al.|[2611.08369](http://arxiv.org/abs/2611.08369)|null|
+|**2026-11-05**|**OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity**|Rupam Mukherjee et.al.|[2611.08360](http://arxiv.org/abs/2611.08360)|null|
+|**2026-11-05**|**USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching**|Thanapong Intharah et.al.|[2611.08352](http://arxiv.org/abs/2611.08352)|null|
+|**2026-11-05**|**The cold substellar frontier in JWST Extragalactic surveys: a robust parallax measurement yields the most distant known ultra-cold Y dwarf**|Feng-Yuan Frey Liu et.al.|[2611.08346](http://arxiv.org/abs/2611.08346)|null|
+|**2026-11-05**|**The complex periodic variability of PKS 0301-243: hints of a supermassive black hole binary candidate**|Jintong Wang et.al.|[2611.08332](http://arxiv.org/abs/2611.08332)|null|
+|**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330](http://arxiv.org/abs/2611.08330)|null|
+|**2026-11-05**|**An order-reversing embedding of Turing degrees into Arthur-Nimue-Merlin degrees (short version)**|Jean Abou Samra et.al.|[2611.08319](http://arxiv.org/abs/2611.08319)|null|
 |**2026-10-29**|**Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers**|Jiongfan Yang et.al.|[2610.40647](http://arxiv.org/abs/2610.40647)|null|
 |**2026-10-29**|**Luggage re-identification: A study of strategies towards a real-world application**|Quentin Dhôte et.al.|[2610.40643](http://arxiv.org/abs/2610.40643)|null|
 |**2026-10-29**|**Probing Spatial State Representations in Visual Foundation Models**|Baiqiao Yin et.al.|[2610.40636](http://arxiv.org/abs/2610.40636)|null|
@@ -9386,6 +9396,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**Data-driven discovery of intrinsic Lie point symmetries of differential equation systems**|Ilker Gurcan et.al.|[2611.08421](http://arxiv.org/abs/2611.08421)|null|
+|**2026-11-05**|**Variably saturated flow on polygonal and cut meshes using a mass-conservative hybrid virtual element**|Francesco Salvatore Liguori et.al.|[2611.08276](http://arxiv.org/abs/2611.08276)|null|
+|**2026-11-05**|**Boundary-preserving randomized neural network methods for Poisson equations on general two- and three-dimensional domains**|Huifang Zhou et.al.|[2611.07985](http://arxiv.org/abs/2611.07985)|null|
+|**2026-11-05**|**Estimating Vertical Ocean Velocity from Horizontal Currents: Linear and Depth-Conditional Neural-Network Approaches on a High-Resolution Regional Ocean Model**|Francesco M. Ventrella et.al.|[2611.07969](http://arxiv.org/abs/2611.07969)|null|
+|**2026-11-05**|**EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure**|Kwan Yun et.al.|[2611.07909](http://arxiv.org/abs/2611.07909)|null|
+|**2026-11-05**|**Spectrotemporal imaging of ultrafast electron dynamics**|Darius Köhnke et.al.|[2611.07884](http://arxiv.org/abs/2611.07884)|null|
+|**2026-11-05**|**PVDepth: Panoramic Video Depth Estimation via Geometry-Aware Spatiotemporal Adaptation**|Chuanxin Song et.al.|[2611.07873](http://arxiv.org/abs/2611.07873)|null|
+|**2026-11-05**|**Continuous Space-Time Finite Element Simulations for Biomedical Flows with Large Boundary Motion and Time-Periodicity**|Nico Dirkes et.al.|[2611.07822](http://arxiv.org/abs/2611.07822)|null|
+|**2026-11-05**|**The Pristine survey XXXI. A stream offset from the Stream: very metal-poor stellar debris trailing 100 $^{\circ}$ from the LMC-SMC system**|Akshara Viswanathan et.al.|[2611.07563](http://arxiv.org/abs/2611.07563)|null|
+|**2026-11-05**|**An Empirical Study of Reinforcement Learning for Keypoint Positioning of Deformable Linear Objects**|Vinay Rodrigues et.al.|[2611.07261](http://arxiv.org/abs/2611.07261)|null|
 |**2026-10-29**|**Field-level inference under pressure: the information content of the thermal Sunyaev-Zel'dovich field**|Carmen Embil Villagra et.al.|[2610.40617](http://arxiv.org/abs/2610.40617)|null|
 |**2026-10-29**|**Machine Learning-Based Detection of Mobile Money Scan Messages in Ghana: A Comparative Evaluation of Naive Bayes, Support Vector Machine, and Randon Forest Classifiers**|Ibrahim Salifu et.al.|[2610.40544](http://arxiv.org/abs/2610.40544)|null|
 |**2026-10-29**|**Beyond $χ^2$ : Ensemble null tests for reliable scientific discovery**|Adrian E. Bayer et.al.|[2610.40167](http://arxiv.org/abs/2610.40167)|null|
@@ -9421,6 +9441,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**IDPrior: Decoupling Identity Generation from Facial Image Synthesis**|Fadi Boutros et.al.|[2611.07941](http://arxiv.org/abs/2611.07941)|null|
+|**2026-11-05**|**OptIMerge: Optimization-Based Merging of Diffusion Models**|Viraj Shah et.al.|[2611.07543](http://arxiv.org/abs/2611.07543)|null|
+|**2026-11-05**|**Non-symmetric integral geometry: alternative reconstruction procedure with dual Radon transform**|I. V. Anikin et.al.|[2611.07376](http://arxiv.org/abs/2611.07376)|null|
+|**2026-11-05**|**Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom**|Lucas McCullum et.al.|[2611.07357](http://arxiv.org/abs/2611.07357)|null|
+|**2026-11-04**|**PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories**|Wanqi Yuan et.al.|[2611.06870](http://arxiv.org/abs/2611.06870)|null|
+|**2026-11-04**|**OSD-JSCC: Neural Joint Source-Channel Coding with One-Step Diffusion**|Shunpu Tang et.al.|[2611.06437](http://arxiv.org/abs/2611.06437)|null|
+|**2026-11-04**|**Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching**|Runmin Zhang et.al.|[2611.06422](http://arxiv.org/abs/2611.06422)|null|
+|**2026-11-04**|**Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels**|Xu Pei et.al.|[2611.06205](http://arxiv.org/abs/2611.06205)|null|
+|**2026-11-04**|**CARM: Conformal Adaptive Risk Masking for Reliable Scientific Super-Resolution**|Guangtao Zhang et.al.|[2611.06151](http://arxiv.org/abs/2611.06151)|null|
+|**2026-11-04**|**UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling**|Jingbo Lin et.al.|[2611.06042](http://arxiv.org/abs/2611.06042)|null|
 |**2026-10-29**|**LoRe-MIM: Lost-or-Replaced Masked Image Modeling for Self-Supervised Representation Learning in Whole-Body PET/CT**|Amartya Bhattacharya et.al.|[2610.40284](http://arxiv.org/abs/2610.40284)|null|
 |**2026-10-29**|**Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI**|Serwan Jassim et.al.|[2610.40280](http://arxiv.org/abs/2610.40280)|null|
 |**2026-10-29**|**EventSeeColor: Learning to Reconstruct Color from Monochrome Events**|Chuanzhi Xu et.al.|[2610.40166](http://arxiv.org/abs/2610.40166)|null|
