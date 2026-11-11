@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.11.09
+## Updated on 2026.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -9351,6 +9351,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Where Do Vision-Language Models Get Left and Right? Position-Code Counterfactuals in Qwen2.5-VL, Qwen3-VL and InternVL3**|Enhao Cui et.al.|[2611.14060](http://arxiv.org/abs/2611.14060)|null|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Complete self-shrinkers with scalar curvature bounded below**|Qing-Ming Cheng et.al.|[2611.14047](http://arxiv.org/abs/2611.14047)|null|
+|**2026-11-10**|**From Show Programs to Linked Data**|Clarisse Bardiot et.al.|[2611.14037](http://arxiv.org/abs/2611.14037)|null|
+|**2026-11-10**|**An Alignment Microscope for Imaging Rotational Wavepacket Dynamics**|J. Strohaber et.al.|[2611.14034](http://arxiv.org/abs/2611.14034)|null|
+|**2026-11-10**|**From convolution pi-algebras to Rota-Baxter Hopf pi-algebras**|Xue Tang et.al.|[2611.14024](http://arxiv.org/abs/2611.14024)|null|
+|**2026-11-10**|**A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening**|Sharan Sharmeela Karuppannan et.al.|[2611.14013](http://arxiv.org/abs/2611.14013)|null|
+|**2026-11-10**|**Testing isotropy of random fields with values in abstract spaces**|Julius Baumhakel et.al.|[2611.14011](http://arxiv.org/abs/2611.14011)|null|
+|**2026-11-10**|**Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models**|Xingqi Wang et.al.|[2611.13997](http://arxiv.org/abs/2611.13997)|null|
+|**2026-11-10**|**Lipschitz-Controlled Flow Matching for Robust Image Restoration**|Sedjro Salomon Hotegni et.al.|[2611.13995](http://arxiv.org/abs/2611.13995)|null|
 |**2026-11-05**|**Latent RL Priors for Data-Efficient Dexterous Manipulation**|Yixiao Wang et.al.|[2611.08458](http://arxiv.org/abs/2611.08458)|null|
 |**2026-11-05**|**Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception**|Hongsen Cao et.al.|[2611.08441](http://arxiv.org/abs/2611.08441)|null|
 |**2026-11-05**|**FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning**|Ali Mohammadi Ruzbahani et.al.|[2611.08383](http://arxiv.org/abs/2611.08383)|null|
@@ -9396,6 +9406,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Beyond Fourier and Laplace: The Hankel Neural Operator for Learning Solution Operators of Differential Equations**|Biswanath Barman et.al.|[2611.13989](http://arxiv.org/abs/2611.13989)|null|
+|**2026-11-10**|**The Case for AI-Enabled Gate Monitoring as Farm Security in the UK: A PRISMA-Guided Review of the Evidence on Rural Crime, Livestock Predation and Farm Access**|Steve Symes et.al.|[2611.13933](http://arxiv.org/abs/2611.13933)|null|
+|**2026-11-10**|**JAX-WAVE: A Differentiable Physics-Supervised Framework for Inverse Wave Design in Heterogeneous Media**|Honghui Du et.al.|[2611.13826](http://arxiv.org/abs/2611.13826)|null|
+|**2026-11-10**|**$\mathbb{R}$-linear unitary preservers of C$^*$ -algebras**|Lu Cui et.al.|[2611.13822](http://arxiv.org/abs/2611.13822)|null|
+|**2026-11-10**|**CASCADE: Constraint-Aware SCAffolded DEcomposition for Logical Anomaly Detection**|Jinchan Kim et.al.|[2611.13820](http://arxiv.org/abs/2611.13820)|null|
+|**2026-11-10**|**Residual-Closed-Loop SAGE-Brent Estimation for Unknown-Order Wideband Underwater Acoustic Channels**|Wenxu Bi et.al.|[2611.13699](http://arxiv.org/abs/2611.13699)|null|
+|**2026-11-10**|**Overcoming Dynamic Range Limitations in Computational Hyperspectral Imaging**|Qianqian Yu et.al.|[2611.13663](http://arxiv.org/abs/2611.13663)|null|
+|**2026-11-10**|**Beyond the Log-Linear Frontier: Pre-Asymptotic Analysis of Finite-Budget Neural Scaling Laws**|Tianyu Zhao et.al.|[2611.13534](http://arxiv.org/abs/2611.13534)|null|
+|**2026-11-10**|**Complete Decentralization of Wave Equation Control on a Compact Domain**|Addie McCurdy et.al.|[2611.13449](http://arxiv.org/abs/2611.13449)|null|
+|**2026-11-09**|**A Second-Order Parallel Neumann-Robin Splitting for the Stokes-Biot System with a Linear Time-Step Restriction**|Yifan Wang et.al.|[2611.13303](http://arxiv.org/abs/2611.13303)|null|
 |**2026-11-05**|**Data-driven discovery of intrinsic Lie point symmetries of differential equation systems**|Ilker Gurcan et.al.|[2611.08421](http://arxiv.org/abs/2611.08421)|null|
 |**2026-11-05**|**Variably saturated flow on polygonal and cut meshes using a mass-conservative hybrid virtual element**|Francesco Salvatore Liguori et.al.|[2611.08276](http://arxiv.org/abs/2611.08276)|null|
 |**2026-11-05**|**Boundary-preserving randomized neural network methods for Poisson equations on general two- and three-dimensional domains**|Huifang Zhou et.al.|[2611.07985](http://arxiv.org/abs/2611.07985)|null|
@@ -9441,6 +9461,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**CURRENT: A Recurrent Neural Network for Concurrent Spatial and Temporal Super-Resolution of 4D Flow MRI**|Luuk Jacobs et.al.|[2611.14058](http://arxiv.org/abs/2611.14058)|null|
+|**2026-11-10**|**Lipschitz-Controlled Flow Matching for Robust Image Restoration**|Sedjro Salomon Hotegni et.al.|[2611.13995](http://arxiv.org/abs/2611.13995)|null|
+|**2026-11-10**|**Adapting a Vision Foundation Model for Fracture Characterization in Acoustic Image Logs**|Guangyu Wang et.al.|[2611.13911](http://arxiv.org/abs/2611.13911)|null|
+|**2026-11-10**|**Stability Analysis of Single- and Multi-Snapshot ESPRIT**|Wenchong Huang et.al.|[2611.13633](http://arxiv.org/abs/2611.13633)|null|
+|**2026-11-09**|**PegasusAI Studio: Legible Cyberinfrastructure and Accountable AI Agents for Scientific Workflows**|Komal Thareja et.al.|[2611.13309](http://arxiv.org/abs/2611.13309)|null|
+|**2026-11-09**|**SpatialSR: Spatial Resolution-Centric Pipeline for Arbitrary-Scale Remote Sensing Super-Resolution**|Yan Zhang et.al.|[2611.13046](http://arxiv.org/abs/2611.13046)|null|
+|**2026-11-10**|**Off-focus detection for SNR enhancement in coherent single-pixel imaging**|Wei Zhu et.al.|[2611.12238](http://arxiv.org/abs/2611.12238)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|null|
+|**2026-11-09**|**Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area**|Xiao Tan et.al.|[2611.12025](http://arxiv.org/abs/2611.12025)|null|
+|**2026-11-09**|**End-to-End Joint Training of Super-Resolution and Compression Artifact Removal for Industrial Machine Vision**|Dang BuiDinh et.al.|[2611.11831](http://arxiv.org/abs/2611.11831)|null|
 |**2026-11-05**|**IDPrior: Decoupling Identity Generation from Facial Image Synthesis**|Fadi Boutros et.al.|[2611.07941](http://arxiv.org/abs/2611.07941)|null|
 |**2026-11-05**|**OptIMerge: Optimization-Based Merging of Diffusion Models**|Viraj Shah et.al.|[2611.07543](http://arxiv.org/abs/2611.07543)|null|
 |**2026-11-05**|**Non-symmetric integral geometry: alternative reconstruction procedure with dual Radon transform**|I. V. Anikin et.al.|[2611.07376](http://arxiv.org/abs/2611.07376)|null|
